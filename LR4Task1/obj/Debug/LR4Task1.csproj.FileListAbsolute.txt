@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\LR4Task1\LR4Task1\bin\Debug\LR4Task1.exe.config
+C:\Users\user\source\repos\LR4Task1\LR4Task1\bin\Debug\LR4Task1.exe
+C:\Users\user\source\repos\LR4Task1\LR4Task1\bin\Debug\LR4Task1.pdb
+C:\Users\user\source\repos\LR4Task1\LR4Task1\obj\Debug\LR4Task1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LR4Task1\LR4Task1\obj\Debug\LR4Task1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LR4Task1\LR4Task1\obj\Debug\LR4Task1.exe
+C:\Users\user\source\repos\LR4Task1\LR4Task1\obj\Debug\LR4Task1.pdb
